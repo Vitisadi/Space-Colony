@@ -1,3 +1,4 @@
+package src;
 public class Space_Colony {
 
     public static void main(String[] args) {
